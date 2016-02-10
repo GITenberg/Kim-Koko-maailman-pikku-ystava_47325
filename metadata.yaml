@@ -1,0 +1,38 @@
+_repo: Kim-Koko-maailman-pikku-ystava_47325
+contributor:
+  translator:
+    agent_name: Leiviskä, Hannes
+    alias: Leiviska, Hannes
+    gutenberg_agent_id: '37029'
+    url: http://www.gutenberg.org/2009/agents/37029
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2014-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47325'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Spy stories'
+- !lcsh 'Lamas -- Fiction'
+- !lcsh 'Irish -- India -- Fiction'
+- !lcsh 'India -- Fiction'
+- !lcsh 'Boys -- Fiction'
+title: 'Kim: Koko maailman pikku ystävä'
+url: http://www.gutenberg.org/ebooks/47325
